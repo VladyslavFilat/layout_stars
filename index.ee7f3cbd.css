@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.container {
+  background-color: #fff;
+  flex-flow: wrap;
+  flex-shrink: 0;
+  width: 96px;
+  height: 96px;
+  display: flex;
+}
+/*# sourceMappingURL=index.ee7f3cbd.css.map */
